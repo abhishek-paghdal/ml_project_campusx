@@ -1,0 +1,7 @@
+pandas
+numpy 
+seaborn
+torch==2.0.0
+tensorflow
+accelerate
+-e .
