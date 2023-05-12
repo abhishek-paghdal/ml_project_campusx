@@ -1,7 +1,10 @@
 pandas
-numpy 
+numpy
 seaborn
-torch==2.0.0
-tensorflow
-accelerate
+matplotlib
+scikit-learn
+catboost
+xgboost
+Flask
+
 -e .
